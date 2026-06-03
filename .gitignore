@@ -1,0 +1,10 @@
+data/
+*.csv
+*.zip
+
+
+.venv/
+env/
+venv/
+__pycache__/
+.streamlit/
