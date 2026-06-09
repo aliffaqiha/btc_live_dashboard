@@ -1,4 +1,18 @@
+# Dashboard & Visualization
 streamlit
-pandas
 plotly
+
+# Data Manipulation
+pandas
+numpy
+
+# Machine Learning & AI
+tensorflow
+scikit-learn
+keras
+
+# Kaggle API Integration
 kaggle
+
+# Utilities
+python-dotenv
